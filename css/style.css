@@ -1,0 +1,118 @@
+body{
+    color: #444444;
+}
+header{
+    background-color: #fdffdd;
+    height: 600px;
+}
+nav{
+    height: 100px;
+}
+.header-logo{
+    width: 45%;
+    float: left;
+    margin-left: 150px;
+}
+.nav-button{
+    margin-left: 150px;
+    font-weight: 700;
+}
+.nav-button-margin{
+    margin-left: 30px;
+}
+.half-width{
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width-margin{
+    margin-top: 50px;
+    margin-left: 150;
+}
+.half-width-img{
+    width:80%
+}
+.h1-size{
+    font-size: 50px;
+    font-weight: 700;
+}
+.yellow-font{
+    color: darkorange;
+}
+button{
+    background-color: #84b42b;
+    border-radius: 10px;
+    height: 50px;
+    font-weight: 500;
+    color: white;
+    border: none;
+    margin: 15px;
+}
+button img{
+    width:15%;
+}
+.card-attachment{
+    border: none;
+}
+.card-image-1{
+    width: 80%;
+}
+.card-image-2{
+    width: 60%;
+}
+.card-image-3{
+    width: 65%;
+}
+.card-attachment-footer{
+    border: none;
+}
+.card-footer-float{
+    float: left;
+}
+.man-img1{
+    width: 56%;
+}
+.man-img2{
+    width: 70%;
+}
+.man-img3{
+    width: 50%;
+}
+.bottom-section{
+    margin-top: 100px;
+    width: 50%;
+    float: left;
+    height: 520px;
+}
+.bottom-image1{
+    width: 60%;
+}
+.bottom-image2{
+    width: 100%;
+    margin-top: 70px;
+    
+}
+.botton-width{
+    width: 80%;
+    height: 105px;
+}
+.footer-title{
+    text-align: center;
+}
+.footer-form{
+ text-align: center;
+ max-width: 400px; 
+ margin-left: 450px;
+}
+@media (max-width: 1000px){
+    .footer-form{
+        text-align: center;
+        max-width: 400px; 
+        margin-left: 20px;
+        margin-top: 150px;   
+    } 
+}
+.footer-logo{
+    width: 300px;
+}
